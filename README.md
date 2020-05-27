@@ -8,8 +8,7 @@
 
 > A classification system to detect 30 National Basketball Association teams in the current (2020) season by simply taking a photograph containing a logo. The photograph can be of anything ranging from a teams' poster, merchandise item or the floorboards of the stadium.
 
-Team Members:
-Gurveer Dhindsa, Abubakar Abdulsalam
+Team Members: Gurveer Dhindsa, Abubakar Abdulsalam
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
