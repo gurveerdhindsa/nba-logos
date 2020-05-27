@@ -19,7 +19,7 @@ For building and running the application you may need:
 - [Jupyter Notebook](https://jupyter.org/install)
 
 ### Installing
-First, clone this repository to your local machine using `https://github.com/AbubakarAbdulsalam/COMP4102_Project.git
+First, clone this repository to your local machine using https://github.com/gurveerdhindsa/nba-logos.git
 
 ### Running the application locally
 Option 1:
