@@ -54,4 +54,4 @@ A. Burkov, The hundred-page machine learning book. Quebec, Canada?: Andriy Burko
 Upadhyay, Y. (2019, March 8). Feed forward Neural Networks. Retrieved from https://towardsdatascience.com/feed-forward-neural-networks-c503faa46620
 
 ##  Support
-- Website at <a href="https://gurveerdhindsa.github.io/portfolio/" target="_blank">`gurveerdhindsa.github.io`</a>
+- Website at <a href="https://gurveerdhindsa.github.io/portfolio/" target="_blank">`gurveerdhindsa.ca`</a>
