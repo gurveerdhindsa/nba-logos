@@ -1,6 +1,6 @@
 <p align="center">
     <h1 align="center">nba-logos</h1>
-    <img src="screenshots/logos.jpg">
+    <img src="screenshots/logos.png">
 </p>
 
 Team Members:
