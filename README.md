@@ -2,11 +2,11 @@
     <h1 align="center">nba-logos</h1>
 </p>
 
+> A classification system to detect 30 National Basketball Association teams in the current (2020) season by simply taking a photograph containing a logo. The photograph can be of anything ranging from a teams' poster, merchandise item or the floorboards of the stadium.
+
 <p align="center">
     <img src="screenshots/logos.png" />
 </p>
-
-> A classification system to detect 30 National Basketball Association teams in the current (2020) season by simply taking a photograph containing a logo. The photograph can be of anything ranging from a teams' poster, merchandise item or the floorboards of the stadium.
 
 Team Members: Gurveer Dhindsa, Abubakar Abdulsalam
 
